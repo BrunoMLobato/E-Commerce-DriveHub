@@ -1,6 +1,6 @@
 <h1>E-Commerce DriveHub</h1>
 
-<h2>:bookmark: Sobre</h2>
+# :bookmark: **Sobre**
 <p>Este projeto foi concebido como parte integrante da disciplina de Atividade de Integração Curricular II durante o nosso curso na faculdade. Desenvolvido em colaboração com dois colegas, esta iniciativa reflete a aplicação prática dos conhecimentos adquiridos ao longo do semestre. Exploramos desafios reais, colaboramos de maneira sinérgica e aplicamos soluções inovadoras, culminando em uma experiência de aprendizado significativa e em um projeto que demonstra nossa habilidade em integrar teoria e prática.</p>
 
 # :clipboard: **Funcionalidades**
