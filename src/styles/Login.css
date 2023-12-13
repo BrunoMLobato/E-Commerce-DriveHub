@@ -78,7 +78,7 @@ form{
 }
 .form-link{
     text-align: center;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 .form-link span,
 .form-link a{
@@ -117,3 +117,9 @@ form{
     }  
 }
 
+/* Pagina de recuperação de senha */
+.descricao {
+    text-align: center;
+    padding-top: 15px;
+    color: #232836;
+}

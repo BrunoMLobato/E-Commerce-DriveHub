@@ -1,12 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import "../styles/Login.css";
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
 import { Link } from "react-router-dom";
-
-
-
-
 
 const Login = () => {
 
@@ -27,16 +23,18 @@ const Login = () => {
               <input type={typePassowrd} placeholder="Senha" className="password" />         
                <div className="eye-icon">      
         
-{typePassowrd === "password" ? (
-                  <VisibilityIcon style={{ color: "#CECECE", marginRight: "10px", marginLeft: "10px", fontSize: "1.2em", cursor: "pointer"}} onClick={() => setTypePassword("text")}/>
+                {typePassowrd === "password" ? (
+                  <VisibilityIcon style={{ color: "#AAACAF", marginRight: "10px", marginLeft: "10px", fontSize: "1.2em", cursor: "pointer"}} onClick={() => setTypePassword("text")}/>
                 ) : (
-                <VisibilityOffIcon style={{ color: "#CECECE", marginRight: "10px", marginLeft: "10px", fontSize: "1.2em", cursor: "pointer"}} onClick={() => setTypePassword("password")}/>)}
+                <VisibilityOffIcon style={{ color: "#AAACAF", marginRight: "10px", marginLeft: "10px", fontSize: "1.2em", cursor: "pointer"}} onClick={() => setTypePassword("password")}/>)}
                
                </div>
 </div>
 
               <div className="form-link">
-                <a href="#" className="forgot-pass">Esqueceu Senha?</a>
+                  <Link to="/resetpassword">
+                    <p className="link login-link">Esqueceu Senha</p>
+                  </Link>
               </div>
 
               <div className="field button-field">
