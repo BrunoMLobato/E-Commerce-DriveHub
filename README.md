@@ -9,7 +9,7 @@
 
 :heavy_check_mark: `Cadastro`
 
-:hourglass_flowing_sand: `Recuperação de Senha`
+:heavy_check_mark: `Recuperação de Senha`
 
 :hourglass_flowing_sand: `Listagem de Produtos`
 
