@@ -18,37 +18,3 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-# Time
-
-<table>
-  <tr>
-    <td>
-      <div>
-        <a href="https://github.com/romulodm">
-          <img src="https://avatars.githubusercontent.com/u/108697633?v=4" width=115" width="115">
-          <br>
-          <p align="center">Bruno Lobato</p>
-        </a>
-      </div>
-    </td>
-    <td>
-      <div>
-        <a href="https://github.com/camilatabordac">
-          <img src="https://avatars.githubusercontent.com/u/153239525?v=4" width="115">
-          <br>
-          <p align="center">Camila Taborda</p>
-        </a>
-      </div>
-    </td>
-    <td>
-      <div>
-        <a href="https://github.com/gabpunk">
-          <img src="https://avatars.githubusercontent.com/u/108433377?v=4" width="115">
-          <br>
-          <p align="center">Gabriel Teixeira</p>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
